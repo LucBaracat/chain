@@ -1,0 +1,13 @@
+/home/luc/coding_projects/JaxsCoin/target/debug/deps/positioned_io-3c5522a54e11e575.rmeta: /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/lib.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/byteorder/mod.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/byteorder/byteio.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/cursor.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/slice.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/unix.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/array.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/vec.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/refs.rs
+
+/home/luc/coding_projects/JaxsCoin/target/debug/deps/positioned_io-3c5522a54e11e575.d: /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/lib.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/byteorder/mod.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/byteorder/byteio.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/cursor.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/slice.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/unix.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/array.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/vec.rs /home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/refs.rs
+
+/home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/lib.rs:
+/home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/byteorder/mod.rs:
+/home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/byteorder/byteio.rs:
+/home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/cursor.rs:
+/home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/slice.rs:
+/home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/unix.rs:
+/home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/array.rs:
+/home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/vec.rs:
+/home/luc/.cargo/registry/src/github.com-1ecc6299db9ec823/positioned-io-0.2.2/src/refs.rs:

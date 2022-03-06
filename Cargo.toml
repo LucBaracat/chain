@@ -1,0 +1,19 @@
+[package]
+name = "jaxs-coin"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+secp256k1 = { version = "0.21.2", features = ["rand", "bitcoin_hashes"] }
+rand = "0.8.5"
+pcg_rand = "0.13.0"
+hex = "0.4.3"
+ripemd = "0.1.1"
+sha256 = "1.0.3"
+bs58 = "0.3.1"
+rs_merkle = "1.0"
+
+# [profile.dev]
+# overflow-checks = false
